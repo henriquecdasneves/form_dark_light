@@ -1,5 +1,7 @@
-Light Mode
-<img width="688" height="842" alt="modo_light" src="https://github.com/user-attachments/assets/aba542c3-079c-4ab9-87be-2aeefdc3795e" />
+https://henriquecdasneves.github.io/form_dark_light/
 
-Dark Mode
-<img width="773" height="824" alt="modo_dark" src="https://github.com/user-attachments/assets/f8752755-060a-4481-b63d-f1444cd5f423" />
+
+<img width="600" height="809" alt="m_light" src="https://github.com/user-attachments/assets/54b1393a-f147-4588-b3f8-46bb931ebb4e" />
+
+
+<img width="601" height="807" alt="m_dark" src="https://github.com/user-attachments/assets/b8b5098e-8631-4dd9-9f66-82e2694a6a99" />
